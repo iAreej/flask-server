@@ -67,13 +67,6 @@ def predict():
 
 
    
+
 if __name__ == "__main__":
-<<<<<<< HEAD
-<<<<<<< HEAD
-     app.run(debug=True ,host="0.0.0.0", port=5000)
-=======
-    app.run(debug=True ,host="0.0.0.0", port=5000)
->>>>>>> 5eb8aa6e (your commit message)
-=======
-    app.run(debug=True ,host="0.0.0.0", port=5000)
->>>>>>> 487c6c8e2e63c383de9994a6757610acd0c6b971
+   app.run(debug=True ,host="0.0.0.0", port=5000)
